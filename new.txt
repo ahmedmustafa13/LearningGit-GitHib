@@ -1,2 +1,4 @@
 new file to check
 second line
+third line added
+
